@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: hugo-trial-dec11
+owner: syrusakbary
+package: .
